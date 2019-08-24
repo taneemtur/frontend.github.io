@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(hdpic-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p.already-registered a {
+    text-decoration: none;
+    color: red;
+    margin-left: 3%;
+}
+
+p.already-registered a:hover {
+    color: #f24444;
+}
+
+.commets h2{
+
+color: black;
+
+}
+
+.commets label{
+    color: black;
+}
+
+
+
+.commets input[type=submit] {
+    height: 36px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 15px;
+    border-radius: 15px;
+    width: 15%;
+    color: #fff;
+    background: red;
+    margin-top: 5%;
+}
+
+.callus{
+    margin-right: 20%;
+}
